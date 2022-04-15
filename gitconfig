@@ -1,0 +1,8 @@
+[user]
+	email = oilfield101@gmail.com
+	name = doomcrew
+	signingkey = 43D6AB0E8A6BC61A
+[commit]
+	gpgsign = true
+[useer]
+	signingkey = 43D6AB0E8A6BC61A
