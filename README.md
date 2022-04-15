@@ -79,7 +79,7 @@ See also the full list of [contributors][gh-contributors] who participated in th
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
